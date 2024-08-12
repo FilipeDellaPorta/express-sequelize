@@ -1,4 +1,4 @@
-const dataSource = require('../models') //chamando o index dentro de models
+const dataSource = require('../database/models') //chamando o index dentro de models
 
 class Services {
     constructor(nomeDoModel) {
