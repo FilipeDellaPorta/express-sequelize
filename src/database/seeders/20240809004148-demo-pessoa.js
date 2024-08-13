@@ -53,7 +53,7 @@ module.exports = {
         nome: 'Dine Docente',
         email: 'dine@email.com',
         cpf: '80941142078',
-        ativo: true,
+        ativo: false,
         role: 'docente',
         createdAt: new Date(),
         updatedAt: new Date(),
